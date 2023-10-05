@@ -1,0 +1,5 @@
+C:/Users/Admin/Desktop/code/bai_tap_lon/cautrucdulieu_giaithuat/build/CMakeFiles/cautrucdulieu_giaithuat.dir
+C:/Users/Admin/Desktop/code/bai_tap_lon/cautrucdulieu_giaithuat/build/CMakeFiles/package.dir
+C:/Users/Admin/Desktop/code/bai_tap_lon/cautrucdulieu_giaithuat/build/CMakeFiles/package_source.dir
+C:/Users/Admin/Desktop/code/bai_tap_lon/cautrucdulieu_giaithuat/build/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/code/bai_tap_lon/cautrucdulieu_giaithuat/build/CMakeFiles/rebuild_cache.dir

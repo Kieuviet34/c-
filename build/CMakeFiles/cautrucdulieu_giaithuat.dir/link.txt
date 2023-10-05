@@ -1,0 +1,3 @@
+C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\cmake\data\bin\cmake.exe -E rm -f CMakeFiles\cautrucdulieu_giaithuat.dir/objects.a
+C:\mingw32\bin\ar.exe qc CMakeFiles\cautrucdulieu_giaithuat.dir/objects.a @CMakeFiles\cautrucdulieu_giaithuat.dir\objects1.rsp
+C:\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cautrucdulieu_giaithuat.dir/objects.a -Wl,--no-whole-archive -o cautrucdulieu_giaithuat.exe -Wl,--out-implib,libcautrucdulieu_giaithuat.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cautrucdulieu_giaithuat.dir\linkLibs.rsp

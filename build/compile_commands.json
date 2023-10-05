@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Admin/Desktop/code/bai_tap_lon/cautrucdulieu_giaithuat/build",
+  "command": "C:\\mingw32\\bin\\g++.exe  @CMakeFiles/cautrucdulieu_giaithuat.dir/includes_CXX.rsp -g -o CMakeFiles\\cautrucdulieu_giaithuat.dir\\src\\main.cpp.obj -c C:\\Users\\Admin\\Desktop\\code\\bai_tap_lon\\cautrucdulieu_giaithuat\\src\\main.cpp",
+  "file": "C:/Users/Admin/Desktop/code/bai_tap_lon/cautrucdulieu_giaithuat/src/main.cpp",
+  "output": "CMakeFiles/cautrucdulieu_giaithuat.dir/src/main.cpp.obj"
+}
+]
